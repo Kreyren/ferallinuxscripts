@@ -1,0 +1,6 @@
+tasks:
+  # To get linting of shell files
+  - before: brew install shellcheck
+vscode:
+  extensions:
+    - timonwong.shellcheck@0.9.0:HV7fROO4OHK245UUeWPLRw==
